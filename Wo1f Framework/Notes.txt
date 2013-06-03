@@ -1,0 +1,6 @@
+﻿Notes
+
+Make the Socket handle all the communications (sending/handling/encryption over networking so each connection is a different encryption)
+Make the Client be an inheritable class for clients that handle the connection and have an option to automatically communicate with the database and add commands.... also add a switch/default type thing for the commands for unknown commands....
+
+
